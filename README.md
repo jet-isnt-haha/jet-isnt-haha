@@ -19,7 +19,7 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=Expo)
-[![](https://img.shields.io/badge/-NodeJS-1d365d?style=flat-square&logo=node&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-NodeJS-1d365d?style=flat-square&logo=nodejs&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-ExPressJS-2496ED?style=flat-square&logo=express&logoColor=ffffff)](https://expressjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
