@@ -10,11 +10,17 @@
 ## 🛠️ 技术栈
 <div align="center">
 
-### 💻 编程语言
+### 💻 Language
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=239120)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=00599C)
 
-### 🌐 前端开发
+### 🌐 Tools
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=Expo)
+[![](https://img.shields.io/badge/-NodeJS-1d365d?style=flat-square&logo=mysql&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-ExPressJS-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://expressjs.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 </div>
