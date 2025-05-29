@@ -15,6 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=00599C)
 
 ### 🌐 前端开发
-![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=React)
-
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=Expo)
 </div>
