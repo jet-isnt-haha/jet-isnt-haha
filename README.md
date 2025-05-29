@@ -11,7 +11,7 @@
 <div align="center">
 
 ### 💻 编程语言
-![JavaScript](https://img.shields.io/badge/-JavaScript%23-black?style=flat-square&logo=javascript&logoColor=239120)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=239120)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=00599C)
 
 ### 🌐 前端开发
