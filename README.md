@@ -19,14 +19,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=ffffff)
 
+[![](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=nodedotjs&logoColor=green)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)](https://expressjs.com/)
+
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-purple?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
 
 [![](https://img.shields.io/badge/-React-2496ED?style=flat-square&logo=React)](https://react.dev/)
 [![](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=Expo)](https://expo.dev/)
 
-[![](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)](https://expressjs.com/)
 [![](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb&logoColor=green)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=darkred)](https://redis.io/)
 
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
