@@ -30,8 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=ffffff)
 
-[![](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=nodedotjs&logoColor=green)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)](https://expressjs.com/)
+[![](https://img.shields.io/badge/-Nodejs-E6EBF0?style=flat-square&logo=nodedotjs&logoColor=green)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Express-E6EBF0?style=flat-square&logo=express&logoColor=black)](https://expressjs.com/)
 
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-CSS3-purple?style=flat-square&logo=css3&logoColor=ffffff)](https://www.w3.org/Style/CSS/)
