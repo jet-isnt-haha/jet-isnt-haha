@@ -55,3 +55,7 @@
 
 [![Whut](https://img.shields.io/badge/WhutEmail-skyblue?style=for-the-badge)](mailto:357825@whut.edu.cn) 
 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/jet-isnt-haha/jet-isnt-haha/output/snake.svg" alt="Snake animation" />
+</div>
