@@ -60,7 +60,7 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/jet-isnt-haha/jet-isnt-haha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jet-isnt-haha/jet-isnt-haha/output/github-snake.svg" alt="Snake animation" />
 
 </td>
 </tr>
