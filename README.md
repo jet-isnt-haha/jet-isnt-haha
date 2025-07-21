@@ -13,7 +13,7 @@
 
 🎓 A **student**
 
-🖼  **Frontend dev enthusiast**(kinda feeling it)
+🖼  **Frontend dev enthusiast**
 
 🌱  **MERN** stack newbie
 
