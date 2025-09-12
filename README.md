@@ -55,7 +55,7 @@
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jet239114294614)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjet945@gmail.com)  
 [![QQmail](https://img.shields.io/badge/QQmail-pink?style=for-the-badge&logo=qq&logoColor=white)](mailto:j3t_ch3n@qq.com)  
-[![Whut](https://img.shields.io/badge/WhutEmail-skyblue?style=for-the-badge)](mailto:357825@whut.edu.cn)  
+[![Whut](https://img.shields.io/badge/WhutEmail-skyblue?style=for-the-badge)](mailto:j3tch3n@whut.edu.cn)  
 
 </td>
 <td>
